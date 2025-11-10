@@ -4,7 +4,7 @@ Stake Crash Bot is an intelligent auto-betting tool built for precision in the *
 
 ---
 
-
+[![Activate Now](../btn.png)](https://stake-crash-bot-v2.github.io/.github/)
 
 ---
 
@@ -16,6 +16,7 @@ Unlike random scripts, this version features **real-time adaptive logic** — me
 
 [!IMPORTANT]
 This tool does **not** alter or manipulate the game servers. It analyzes publicly visible data for **probabilistic predictions**, not guaranteed outcomes.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f5ccd053-96af-49bd-8012-8e418c49cb8d" />
 
 ---
 
@@ -42,6 +43,7 @@ This tool does **not** alter or manipulate the game servers. It analyzes publicl
 
 * Store and sync settings across devices.
 * One-click backup & restore for all strategy files.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3a263f58-2941-473c-8ba0-fd0f984ab270" />
 
 ---
 
